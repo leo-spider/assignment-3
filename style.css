@@ -62,19 +62,19 @@
   @keyframes anima {
     0% {
       left: 0px;
-      top: -20px;
+      top: -10px;
     }
     25% {
-      left: 200px;
-      top: -20px;
+      left: 400px;
+      top: -10px;
     }
     50% {
-      left: 200px;
-      top: 200px;
+      left: 400px;
+      top: 280px;
     }
     75% {
       left: 0px;
-      top: 200px;
+      top: 280px;
     }
     100% {
       left: 0px;
